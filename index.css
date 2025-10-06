@@ -99,3 +99,7 @@ body{
     color: #3431f7;
     text-decoration: dotted;
 }
+.img-logo {
+    width: 100px;
+    height: 100px;
+}
